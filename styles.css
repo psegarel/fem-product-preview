@@ -39,6 +39,11 @@ main {
   overflow: hidden;
 }
 
+footer {
+  position: absolute;
+  bottom: 2%;
+}
+
 .info {
   display: flex;
   flex-direction: column;
