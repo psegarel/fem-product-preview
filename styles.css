@@ -8,12 +8,12 @@
   --clr-white: hsl(0, 0%, 100%);
   --clr-green-500: hsl(158, 36%, 37%);
   --clr-green-700: hsl(158, 42%, 18%);
-  --spacing-500: 2.5rem;   /* 40px */
-  --spacing-400: 2rem;     /* 32px */
-  --spacing-300: 1.5rem;   /* 24px */
-  --spacing-200: 1rem;     /* 16px */
-  --spacing-100: 0.5rem;   /* 8px */
-  --spacing-50: 0.25rem;   /* 4px */
+  --spacing-500: 2.5rem; /* 40px */
+  --spacing-400: 2rem; /* 32px */
+  --spacing-300: 1.5rem; /* 24px */
+  --spacing-200: 1rem; /* 16px */
+  --spacing-100: 0.5rem; /* 8px */
+  --spacing-50: 0.25rem; /* 4px */
 }
 
 body {
